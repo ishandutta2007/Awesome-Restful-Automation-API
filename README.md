@@ -30,6 +30,7 @@
   - [OSS Tool Profiles](#oss-tool-profiles)
 - [📊 Comparison Matrix at a Glance](#-comparison-matrix-at-a-glance)
 - [📈 Star History](#-star-history)
+- [💖 Support](#-support)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
 
@@ -216,6 +217,30 @@ Curated, high-impact open-source solutions for RESTful automation, testing, traf
 ## 📈 Star History
 
 [![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Restful-Automation-API&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Restful-Automation-API&type=date&legend=top-left)
+
+---
+
+## 💖 Support
+
+Thank you for visiting and using **Awesome RESTful Automation API**! 🙏
+
+If you find this repository valuable for your projects, architecture designs, or automation pipelines, please consider supporting its ongoing development and maintenance:
+
+- ⭐ **Star this repository** to help others discover it on GitHub.
+- 🍴 **Fork the repo** and contribute new tools, integrations, and reviews.
+- 📢 **Share with peers** on X/Twitter, LinkedIn, Reddit, or developer Discord communities.
+- ☕ **Buy me a coffee / Sponsor**: If you'd like to support the ongoing maintenance and curation of this and other open-source projects, you can sponsor via the GitHub Sponsors Dashboard:
+
+<p align="center">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github-sponsors" alt="Sponsor on GitHub" />
+  </a>
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+  </a>
+</p>
+
+Your support directly helps fund the continuous research, verification, and benchmarking of open-source tooling! 🚀
 
 ---
 
