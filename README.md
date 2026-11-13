@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Restful-Automation-API/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Restful-Automation-API?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Restful-Automation-API/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Restful-Automation-API?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Restful-Automation-API/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Restful-Automation-API?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Restful-Automation-API/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg" alt="License: CC0 1.0" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -107,7 +107,7 @@ Curated, high-impact open-source solutions for RESTful automation, testing, traf
 
 ### Open-Source Solutions Comparison
 
-| Repository | GitHub Stars Badge | Tech Stack | License | Category | Best For |
+| Repository | GitHub_Stars_Badge | Tech Stack | License | Category | Best For |
 | :--- | :---: | :--- | :--- | :--- | :--- |
 | **[Hoppscotch](https://github.com/hoppscotch/hoppscotch)** ⚡ | [![Hoppscotch Stars](https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=social&color=white)](https://github.com/hoppscotch/hoppscotch/stargazers) | TypeScript / Vue | MIT | API Development & Testing Client | Lightweight, ultra-fast web and desktop Postman alternative. |
 | **[Traefik](https://github.com/traefik/traefik)** 🚦 | [![Traefik Stars](https://img.shields.io/github/stars/traefik/traefik?style=social&color=white)](https://github.com/traefik/traefik/stargazers) | Go | MIT | Cloud-Native Reverse Proxy & Gateway | Automatic microservice route discovery with dynamic TLS termination. |
